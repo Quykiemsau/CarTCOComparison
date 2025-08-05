@@ -1,0 +1,67 @@
+{
+  "app": {
+    "title": "Car Cost Comparison",
+    "subtitle": "Compare the total cost of ownership between electric and gasoline vehicles over their lifecycle"
+  },
+  "car": {
+    "electric": "Electric",
+    "gasoline": "Gasoline",
+    "name": "Car Name",
+    "purchasePrice": "Purchase Price",
+    "efficiency": "Efficiency",
+    "efficiencyElectric": "kWh/100km",
+    "efficiencyGasoline": "L/100km",
+    "electricityRate": "Electricity Rate",
+    "fuelPrice": "Fuel Price",
+    "maintenanceCost": "Maintenance Cost",
+    "batteryCost": "Battery Replacement Cost",
+    "batteryLifespan": "Battery Lifespan",
+    "annualInsurance": "Annual Insurance",
+    "resaleValue": "Resale Value",
+    "resaleValueSuffix": "after {{years}} years"
+  },
+  "common": {
+    "parameters": "Common Parameters",
+    "yearsOfOwnership": "Years of Ownership",
+    "annualKm": "Annual Kilometers Driven",
+    "inflationRate": "Annual Inflation Rate"
+  },
+  "units": {
+    "currency": "$",
+    "km": "km",
+    "kwh": "kWh",
+    "liter": "liter",
+    "percent": "%",
+    "years": "years"
+  },
+  "results": {
+    "totalCost": "Total Cost over {{years}} years",
+    "savings": "You save {{amount}} with {{car}}!",
+    "savingsPercent": "That's {{percent}}% less than {{car}}",
+    "costBreakdown": "Cost Breakdown Comparison",
+    "breakdown": {
+      "purchasePrice": "Purchase Price",
+      "fuelElectricity": "Fuel/Electricity",
+      "maintenance": "Maintenance",
+      "insurance": "Insurance",
+      "batteryReplacement": "Battery Replacement",
+      "resaleValue": "Resale Value"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "country": "Country",
+    "currency": "Currency"
+  },
+  "countries": {
+    "US": "United States",
+    "VN": "Vietnam",
+    "CA": "Canada",
+    "AU": "Australia",
+    "GB": "United Kingdom",
+    "DE": "Germany",
+    "FR": "France",
+    "JP": "Japan"
+  }
+}

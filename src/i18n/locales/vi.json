@@ -1,0 +1,67 @@
+{
+  "app": {
+    "title": "So Sánh Chi Phí Xe Hơi",
+    "subtitle": "So sánh tổng chi phí sở hữu giữa xe điện và xe xăng trong suốt vòng đời sử dụng"
+  },
+  "car": {
+    "electric": "Điện",
+    "gasoline": "Xăng",
+    "name": "Tên xe",
+    "purchasePrice": "Giá mua",
+    "efficiency": "Hiệu suất",
+    "efficiencyElectric": "kWh/100km",
+    "efficiencyGasoline": "L/100km",
+    "electricityRate": "Giá điện",
+    "fuelPrice": "Giá nhiên liệu",
+    "maintenanceCost": "Chi phí bảo dưỡng",
+    "batteryCost": "Chi phí thay pin",
+    "batteryLifespan": "Tuổi thọ pin",
+    "annualInsurance": "Bảo hiểm hàng năm",
+    "resaleValue": "Giá trị bán lại",
+    "resaleValueSuffix": "sau {{years}} năm"
+  },
+  "common": {
+    "parameters": "Thông số chung",
+    "yearsOfOwnership": "Số năm sở hữu",
+    "annualKm": "Số km lái hàng năm",
+    "inflationRate": "Tỷ lệ lạm phát hàng năm"
+  },
+  "units": {
+    "currency": "₫",
+    "km": "km",
+    "kwh": "kWh",
+    "liter": "lít",
+    "percent": "%",
+    "years": "năm"
+  },
+  "results": {
+    "totalCost": "Tổng chi phí trong {{years}} năm",
+    "savings": "Bạn tiết kiệm {{amount}} với {{car}}!",
+    "savingsPercent": "Ít hơn {{percent}}% so với {{car}}",
+    "costBreakdown": "So sánh phân tích chi phí",
+    "breakdown": {
+      "purchasePrice": "Giá mua",
+      "fuelElectricity": "Nhiên liệu/Điện",
+      "maintenance": "Bảo dưỡng",
+      "insurance": "Bảo hiểm",
+      "batteryReplacement": "Thay pin",
+      "resaleValue": "Giá trị bán lại"
+    }
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "country": "Quốc gia",
+    "currency": "Tiền tệ"
+  },
+  "countries": {
+    "US": "Hoa Kỳ",
+    "VN": "Việt Nam",
+    "CA": "Canada",
+    "AU": "Úc",
+    "GB": "Vương quốc Anh",
+    "DE": "Đức",
+    "FR": "Pháp",
+    "JP": "Nhật Bản"
+  }
+}
